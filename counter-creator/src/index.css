@@ -1,0 +1,34 @@
+.counter-container {
+  text-align: center;
+background-color: #ffa31a;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+width: 60%;
+height: 60%;
+margin: auto;
+margin-top: 150px;
+padding: 30px;
+}
+
+.counter {
+text-align: center;
+border: 50px, ;
+border-radius: 20px;
+background-color: #ffa31a;
+}
+button {
+width: 190px;
+margin: 5px;
+padding: 10px 20px;
+font-size: 1.5rem;
+}
+.counter-container {
+  text-align: center;
+background-color: #ffa31a;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
